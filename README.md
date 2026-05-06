@@ -1,6 +1,6 @@
 # ObservaPunk
 Observability Image Designs in a ".Punk" image styling
-<img width="1536" height="1024" alt="ch 8 7 First-person AR glas" src="https://github.com/user-attachments/assets/04fe4f1b-ed00-4f45-b71e-5433273ab6ac" />
+<img width="1920" height="1080" alt="Applied_Observability_AR_CEO_SLIDE_16x9" src="https://github.com/user-attachments/assets/e16a1001-8ee3-42d6-81c6-20a8e9436e91" />
 
 My images consistently combine two things that normally live in separate worlds, the cold, data-dense aesthetic of enterprise technology operations, and the cinematic, emotionally charged visual language of science fiction. Neither alone is ObservaPunk. The collision of the two is.
 
