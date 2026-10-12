@@ -1,4 +1,4 @@
-# ObservaPunk
+# ObservaPunk™
 Observability Image Designs in a ".Punk" image styling
 <img width="1920" height="1080" alt="Applied_Observability_AR_CEO_SLIDE_16x9" src="https://github.com/user-attachments/assets/e16a1001-8ee3-42d6-81c6-20a8e9436e91" />
 
